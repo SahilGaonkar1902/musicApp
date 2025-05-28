@@ -1,4 +1,4 @@
 streamlit 
 spotipy
-spotipy,oauth2
+spotipy.oauth2
 lyricsgenius
