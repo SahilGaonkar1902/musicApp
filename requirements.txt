@@ -1,4 +1,4 @@
 streamlit 
 spotipy
-spotipy.oauth2
+from spotipy.oauth2 import SpotifyClientCredentials
 lyricsgenius
